@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: blueviolet;
+    
+}
+.boder{
+     
+    display: flex;
+    justify-content:space-between ;
+}
